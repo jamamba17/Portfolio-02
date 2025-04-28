@@ -1,0 +1,13 @@
+/* Optional: Add custom styles for a more unique modern look */
+.bg-image {
+	background-size: cover;
+	background-position: center;
+}
+.card-img-top {
+	height: 200px; /* Fixed height for card images */
+	object-fit: cover; /* Ensure images cover the area nicely */
+}
+.carousel-item img {
+	height: 400px; /* Adjust carousel image height */
+	object-fit: cover;
+}
